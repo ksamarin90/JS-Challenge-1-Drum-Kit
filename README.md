@@ -3,4 +3,4 @@ JS challenge by Wes Bos
 
 Play drums in your browser!
 
-http://pale-daughter.surge.sh/
+https://ksamarin90.github.io/JS-Challenge-1-Drum-Kit/
